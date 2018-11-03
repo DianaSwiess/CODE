@@ -45,6 +45,7 @@ display:none;
     font-size: 30px;
     cursor: pointer;
     display: block; 
+    padding:40px;
     position:relative;
     z-index: 1;
 }
