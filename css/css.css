@@ -67,7 +67,7 @@ display:none;
     top:0px;
     z-index: 1;
 }
-nav .menu{
+.menu{
     position:absolute;
     top:0px;
     right:0;
