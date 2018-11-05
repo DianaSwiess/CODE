@@ -96,9 +96,10 @@ display:none;
 
 .menu a{
     display:block;
-    padding: 15px 20px; 
+    padding: 13px 18px; 
     color:#ffffff; 
     text-decoration: none; // quita el subrallado
+	box-sizing: border-box;
 }
 .menu a:hover{ background-color: rgba(0,0,0,0.2); /*al pasar el cursor cambia el color*/
 }
@@ -209,10 +210,10 @@ font-size: 8px;
 }
 nav{
 width:100%;
-height:400px;
+height:300px;
 }
 	
 .img{
 width:100%;
-height:400px;
+height:300px;
 }
