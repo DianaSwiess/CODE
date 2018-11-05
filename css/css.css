@@ -154,6 +154,7 @@ section{
     color: blue;
     float:left;
     top: 0px;
+box-sizing: border-box;
    
 }
 .aside4{
@@ -165,6 +166,7 @@ section{
     background:url(../img/imagen1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
+   box-sizing: border-box;
     
 }
 .aside4:before {
@@ -177,6 +179,7 @@ section{
     opacity: 0.5;
     top: 800;
     float:right; 
+	box-sizing: border-box;
      
 }
 
@@ -245,9 +248,8 @@ top:165px;
 #aside3{
     width:30%;
     height:200px; 
-    color: blue;
-    float:left;
-    top: 0px;
+    
+    
    
 }
 .aside4{
