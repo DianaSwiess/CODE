@@ -162,7 +162,7 @@ box-sizing: border-box;
     height:400px;
     float:right;
     top: 0px;
-    margin-right: 200px;
+    margin-right:200px;
     background:url(../img/imagen1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
@@ -246,17 +246,17 @@ top:165px;
     box-sizing:border-box;    
 }
 #aside3{
-    width:15%;
-    height:200px;   
+    width:30%;
+    height:300px;   
 }
 .aside4{
-    width:20%;
-    height:200px;
+    width:40%;
+    height:100px;
     
 }
 .aside4:before {
-    width:19%;
-    height:200px;
+    width:39%;
+    height:100px;
 	}
 h1{
 font-size:8px;
