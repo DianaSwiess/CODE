@@ -111,7 +111,6 @@ display:none;
     height:800px;
     float:right;
     top: 0px;
-    <section>
     flex-direction: row;
     position: relative;
     margin: auto;
@@ -169,18 +168,35 @@ h3{
        width:100%;
     }
         .aside{
-            width:80%;
+            width:50%;
+		height:400px;
              font-size:12px;
     }
+	.aside:before {
+    content:"";
+    width:25%;
+    height:400px;
     .aside1{
-        width:50%;
+        width:25%;
+	   height:400px; 
 	    font-size:12px;
        }
-      section{width:20%;
-           font-size:10px;
+	.aside1:before {
+    content:"";
+    width:50%;
+    height:400px;
+		}
+      section{
+	      width:35%;
+    height:123px;
+    margin-top: 150px;
         }
-	img{width:20%;
+	img{width:10%;
+    height:135px;
     }
+	.aside img{	
+	top:150px; 
+    left:102px;	
 }
     .menu ul li:hover ul{
         display: none;
