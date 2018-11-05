@@ -184,12 +184,12 @@ h3{
 	.aside1:before {
     content:"";
     width:50%;
-    height:400px;
+    height:200px;
 		}
       section{
 	      width:35%;
     height:31px;
-    margin-top: 150px;
+    margin-top: 35px;
         }
 	img{width:10%;
     height:33px;
