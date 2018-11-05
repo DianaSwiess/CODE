@@ -193,7 +193,7 @@ h3{
   section{
     width:70%;
     height:60px;
-    margin-top:125px;
+    margin-top:135px;
         }
     img{
     padding:10px;
@@ -202,7 +202,7 @@ h3{
     }
 .aside img{	
 top:120px; 
-    left:36px;	
+    left:33px;	
 }
     .menu ul li:hover ul{
         display: none;
