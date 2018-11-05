@@ -190,15 +190,18 @@ h3{
     height:400px;
 		}
   section{
-    display:none;
+    width:50%;
+    height:80px;
+    margin-top: 70px;
         }
     img{
+    padding:10px;
     width:15%;
-    height:33px;
+    height:50px;
     }
 .aside img{	
-top:20px; 
-    left:21px;	
+top:70px; 
+    left:40px;	
 }
     .menu ul li:hover ul{
         display: none;
