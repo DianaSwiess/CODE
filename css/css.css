@@ -127,7 +127,7 @@ display:none;
 }
 section{
     padding:10px;
-    border: 2px solid white;
+    border: 1px solid white;
     border-color: white;
     width:70%;
     height:246px;
@@ -188,7 +188,7 @@ height:400px;
     img{
     padding:10px;
     width:30%;
-    height:95px;
+    height:100px;
     }
 .aside img{	
 top:165px; 
