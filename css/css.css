@@ -114,6 +114,7 @@ display:none;
     flex-direction: row;
     position: relative;
     margin: auto;
+	box-sizing: border-box;
 }
 .aside1:before {
     content:"";
@@ -192,16 +193,16 @@ h3{
   section{
     width:50%;
     height:80px;
-    margin-top: 70px;
+    margin-top:90px;
         }
     img{
     padding:10px;
     width:15%;
-    height:50px;
+    height:80px;
     }
 .aside img{	
-top:70px; 
-    left:40px;	
+top:90px; 
+    left:50px;	
 }
     .menu ul li:hover ul{
         display: none;
