@@ -165,7 +165,23 @@ h3{
     color:#ffffff ;
 }
 @media(max-width:768px){  
-    
+    .contenedor{
+       width:100%;
+    }
+        .aside{
+            width:100%;
+             font-size:12px;
+    }
+    .aside1{
+        width:100%;
+	    font-size:12px;
+       }
+      section{width:100%;
+           font-size:10px;
+        }
+	img{width:20%;
+    }
+}
     .menu ul li:hover ul{
         display: none;
 
