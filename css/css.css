@@ -245,9 +245,10 @@ top:165px;
     height:300px;
     box-sizing:border-box;    
 }
-#aside3{
+.aside3{
     width:30%;
     height:300px;   
+	margin-left:0px;
 }
 .aside4{
     width:40%;
@@ -257,8 +258,8 @@ top:165px;
 .aside4:before {
     width:39%;
     height:200px;
-margin-right: 100px;
-	top:600px;
+margin-right:50px;
+	top:400px;
 	}
 h1{
 font-size:8px;
