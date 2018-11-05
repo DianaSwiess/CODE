@@ -241,24 +241,24 @@ top:165px;
         display: none;
 
     }
-.block { width:100%;
+.block { width:50%;
     height:300px;
     box-sizing:border-box;    
 }
 #aside3{
-    width:30%;
+    width:15%;
     height:200px; 
     
     
    
 }
 .aside4{
-    width:40%;
+    width:20%;
     height:200px;
     
 }
 .aside4:before {
-    width:39%;
+    width:19%;
     height:200px;
 	}
 h1{
