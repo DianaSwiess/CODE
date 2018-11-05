@@ -253,12 +253,12 @@ top:165px;
 .aside4{
     width:40%;
     height:200px;
-    margin-right: 200px;
+    margin-right:0px;
 }
 .aside4:before {
     width:39%;
     height:200px;
-margin-right:50px;
+margin-right:0px;
 	top:400px;
 	}
 h1{
