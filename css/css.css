@@ -188,18 +188,27 @@ h3{
 		}
       section{
 	      width:35%;
-    height:62px;
+    height:31px;
     margin-top: 150px;
         }
 	img{width:10%;
-    height:67px;
+    height:33px;
     }
 	.aside img{	
-	top:75px; 
+	top:35px; 
     left:51px;	
 }
     .menu ul li:hover ul{
         display: none;
 
     }
+		h1{
+			font-size: 15px;
+		}
+		h2{
+			font-size: 12px;
+		}
+		h3{
+			font-size: 12px;
 }
+	}
