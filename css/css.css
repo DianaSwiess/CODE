@@ -198,11 +198,11 @@ h3{
     img{
     padding:10px;
     width:30%;
-    height:88px;
+    height:85px;
     }
 .aside img{	
 top:125px; 
-    left:35px;	
+    left:33px;	
 }
     .menu ul li:hover ul{
         display: none;
