@@ -140,6 +140,38 @@ section{
     z-index: 1;
 
 }
+#aside3{
+    width:30%;
+    height:800px;
+    padding:20px; 
+    color: blue;
+    float:left;
+    top: 0px;
+   
+}
+.aside4{
+    width:40%;
+    height:400px;
+    float:right;
+    top: 0px;
+    margin-right: 200px;
+    background:url(../img/imagen1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.aside4:before {
+    content:"";
+    width:39%;
+    height:400px;
+    margin-right: 200px;
+    background-color:#00A8FF; 
+    position: absolute; /*importante para poder ver el color sobre la imagen*/
+    opacity: 0.5;
+    top: 800;
+    float:right; 
+     
+}
 
 h1{
     color:#ffffff;
