@@ -162,7 +162,7 @@ section{
     float:right;
     top: 0px;
     margin-right: 200px;
-    background:url(../img/imagen1.JPG);
+    background:url(../img/imagen1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     
@@ -242,7 +242,7 @@ top:165px;
     height:300px;
     box-sizing:border-box;    
 }
-	#aside3{
+#aside3{
     width:30%;
     height:200px; 
     color: blue;
@@ -256,7 +256,6 @@ top:165px;
     
 }
 .aside4:before {
-    content:"";
     width:39%;
     height:200px;
 	}
