@@ -241,13 +241,19 @@ top:165px;
         display: none;
 
     }
+.menu{
+	width:100%;
+    height:300px;
+	box-sizing:border-box; 
+	}
 .block { width:100%;
     height:300px;
     box-sizing:border-box;    
 }
 .aside3{
     width:10%;
-    height:200px;   
+    height:100px;  
+	color:pink;
 margin-left:0px;
 }
 .aside4{
@@ -262,7 +268,7 @@ margin-left:0px;
     height:250px;
 padding:3px;
 margin-right:42px;
-margin-top:301px:
+margin-top:1px:
 	}
 h1{
 font-size:8px;
