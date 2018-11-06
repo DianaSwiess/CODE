@@ -246,22 +246,22 @@ top:165px;
     box-sizing:border-box;    
 }
 .aside3{
-    width:30%;
-    height:300px;   
-	margin-left:0px;
+    width:10%;
+    height:200px;   
+margin-left:0px;
 }
 .aside4{
-    width:60%;
+    width:70%;
     height:250px;
     margin-right:40px;
-	padding:6px;
+    padding:4px;
    margin-top:1px;
 }
 .aside4:before {
     width:60%;
     height:250px;
 padding:3px;
-margin-right:41px;
+margin-right:42px;
 margin-top:301px:
 	}
 h1{
