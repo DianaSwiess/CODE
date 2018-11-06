@@ -251,16 +251,18 @@ top:165px;
 	margin-left:0px;
 }
 .aside4{
-    width:40%;
+    width:48%;
     height:200px;
     margin-right:20px;
-    top:10px;
+	padding:6px;
+    top:2px;
 }
 .aside4:before {
-    width:39%;
+    width:48%;
     height:200px;
-margin-right:10px;
-	top:420px:
+	padding:6px;
+margin-right:20px;
+	top:402px:
 	}
 h1{
 font-size:8px;
