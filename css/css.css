@@ -9,7 +9,7 @@ body{
 .contenedor{
     width:100%;
     height:100%; 
-    padding: 10px;
+	box-sizing: border-box;
 }
 
 .aside{
@@ -262,7 +262,7 @@ top:165px;
 	 box-sizing:border-box;  
 }
 .aside4:before {
-    width:80%;
+    width:79%;
     height:200px;
 padding:3px;
 margin-right:12px;
