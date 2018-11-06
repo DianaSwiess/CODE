@@ -262,11 +262,12 @@ top:165px;
 	 box-sizing:border-box;  
 }
 .aside4:before {
-    width:79%;
+    width:77%;
     height:200px;
 padding:3px;
-margin-right:12px;
+margin-right:11px;
 margin-top:1px:
+	box-sizing:border-box;  
 	}
 h1{
 font-size:8px;
